@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Understanding Machine Learning",
+    "filename": "paper1.md"
+  },
+  {
+    "title": "Exploring Deep Learning",
+    "filename": "paper2.md"
+  },
+  {
+    "title": "A Guide to Neural Networks",
+    "filename": "paper3.md"
+  }
+]
