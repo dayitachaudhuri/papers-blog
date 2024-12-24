@@ -1,14 +1,32 @@
 [
   {
     "title": "Understanding Machine Learning",
-    "filename": "paper1.md"
+    "filename": "paper1.md",
+    "link": "https://www.google.com",
+    "description": "This paper gives a high-level overview of machine learning and deep learning.",
+    "tags": ["machine learning", "deep learning"],
+    "authors": ["John Doe", "Jane Doe"],
+    "year": 2018,
+    "complete": true
   },
   {
     "title": "Exploring Deep Learning",
-    "filename": "paper2.md"
+    "filename": "paper2.md",
+    "link": "https://www.google.com",
+    "description": "This paper gives a high-level overview of machine learning and deep learning.",
+    "tags": ["machine learning"],
+    "authors": ["John Doe", "Jane Doe"],
+    "year": 2018,
+    "complete": false
   },
   {
     "title": "A Guide to Neural Networks",
-    "filename": "paper3.md"
+    "filename": "paper3.md",
+    "link": "https://www.google.com",
+    "description": "This paper gives a high-level overview of machine learning and deep learning.",
+    "tags": ["machine learning"],
+    "authors": ["John Doe", "Jane Doe"],
+    "year": 2018,
+    "complete": false
   }
 ]
